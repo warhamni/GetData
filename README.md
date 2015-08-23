@@ -24,4 +24,4 @@ Lastly, the script will create a tidy data set containing the means of all the c
 
 ##About the Code Book
 
-The CodeBook.md file describes the variables, the data, and any transformations or work that been performed to clean up the data. [a relative link](CodeBook.md)
+The CodeBook.md file describes the variables, the data, and any transformations or work that been performed to clean up the data. [a CodeBook.md link](CodeBook.md)
